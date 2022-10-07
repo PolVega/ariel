@@ -10,6 +10,7 @@ protected:
 	int dy;
 	char caracter;
 public:
+	Player() {}
 	Player(int x,int y,int dx,int dy):x(x), y(y), dx(dx), dy(dy) {}
 
 	virtual void draw() {}

@@ -17,4 +17,7 @@ public:
 	int gety() {
 		return y;
 	}
+	int getx() {
+		return x;
+	}
 };

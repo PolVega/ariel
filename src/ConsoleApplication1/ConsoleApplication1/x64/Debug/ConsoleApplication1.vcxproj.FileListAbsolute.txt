@@ -1,0 +1,2 @@
+C:\Users\Vega\Documents\GitHub\ariel\src\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.AssemblyReference.cache
+C:\Users\Vega\Documents\GitHub\ariel\src\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.SuggestedBindingRedirects.cache

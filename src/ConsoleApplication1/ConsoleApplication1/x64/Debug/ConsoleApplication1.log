@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Vega\Documents\GitHub\ariel\src\ConsoleApplication1\ConsoleApplication1\Controlador.hpp(14,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Vega\Documents\GitHub\ariel\src\ConsoleApplication1\ConsoleApplication1\Controlador.hpp(54,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ConsoleApplication1.vcxproj -> C:\Users\Vega\Documents\GitHub\ariel\src\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
