@@ -131,8 +131,10 @@
     <ClInclude Include="Estrellas.hpp" />
     <ClInclude Include="Monigote.hpp" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Persona.hpp" />
     <ClInclude Include="Player.hpp" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="Virus.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp" />
