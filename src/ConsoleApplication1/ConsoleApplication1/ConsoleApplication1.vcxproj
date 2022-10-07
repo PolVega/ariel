@@ -127,7 +127,11 @@
     <ResourceCompile Include="app.rc" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Controlador.hpp" />
+    <ClInclude Include="Estrellas.hpp" />
+    <ClInclude Include="Monigote.hpp" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Player.hpp" />
     <ClInclude Include="Resource.h" />
   </ItemGroup>
   <ItemGroup>
